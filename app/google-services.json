@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971595639119",
+    "firebase_url": "https://jaintradingco-5c282.firebaseio.com",
+    "project_id": "jaintradingco-5c282",
+    "storage_bucket": "jaintradingco-5c282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971595639119:android:a7dd7daaf34ecffd",
+        "android_client_info": {
+          "package_name": "com.passionoid.jaintradingco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971595639119-3r5778t93dkoqe6g9dmg8drnvjp2vb74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.passionoid.jaintradingco",
+            "certificate_hash": "c81d61e74505bea8773b158b9274b4b2e2d4ec66"
+          }
+        },
+        {
+          "client_id": "971595639119-ljluc73258tfiji1u0d5aci7u34u8bj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa0UlHvnmarEFLe7bgTMIQ1DTGZznuz9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971595639119-ljluc73258tfiji1u0d5aci7u34u8bj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
